@@ -1,4 +1,4 @@
-# python_11-12_nov2021
+# Introductory Programming Using Python (11 and 12 Nov 2021)
 
 Course materials are contained in this repository
 
